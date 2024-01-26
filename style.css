@@ -52,8 +52,12 @@ nav h1:hover {
 }
 
 .navleft img {
-    height: 30px;
+    height: 35px;
 }
+.navleft:hover{
+    cursor: pointer;
+}
+
 
 .navright {
     /* font-size: 28px; */
