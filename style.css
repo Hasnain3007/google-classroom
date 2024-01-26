@@ -16,6 +16,9 @@
     font-size: 22px;
     border-radius: 100%;
 }
+.icon:hover{
+    cursor: pointer;
+}
 
 .icon:hover {
     background-color: #F0F0F0;
